@@ -1,6 +1,8 @@
 中国象棋 - in html5
 ===========
 
+参见：https://help.github.com/categories/github-pages-basics/
+
 作者：一叶孤舟<br>
 联系：itlwei@163.com  QQ:28701884<br>
 Demo：http://itlwei.github.io/chess/
